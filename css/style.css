@@ -1,0 +1,47 @@
+/*-------------the header------------*/
+
+header {
+	background-color: #FFB4B0;
+	height: 50px;
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
+
+header li{
+	display: inline;
+}
+
+/*-------------the body----------*/
+.artists-albums-q {
+	background-color: #4DD7FA;
+	border: 2px solid black;
+	float: left;
+	width: 38%;
+	height: 450px;
+
+}
+
+.thatAwfulDiv {
+	text-align: center;
+	
+}
+
+.favoritesDis {
+	background-color:  #FEFAC0;
+	border: 2px solid black;
+	float: right;
+	width: 58%;
+	height: 450px;
+}
+
+.favoritesDis li{
+	display: inline;
+}
+
+.leftGenre {
+	text-align: left;
+}
+
+.rightGenre {
+	text-align: right;
+}
